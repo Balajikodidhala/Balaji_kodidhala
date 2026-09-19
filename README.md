@@ -6,6 +6,8 @@
 
 <img src="profile-background.svg" alt="Balaji Kodidhala colorful profile background" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Data+Analytics+%7C+Data+Science+%7C+Software+Development;Turning+ideas+into+useful+digital+experiences;Always+learning%2C+building%2C+and+improving" alt="Animated profile introduction" />
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20website-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balajikodidhala.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Balajikodidhala-6A11CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balajikodidhala)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-FF4B91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajik12072003@gmail.com)
@@ -13,6 +15,8 @@
 </div>
 
 ## About me
+
+<img src="https://user-images.githubusercontent.com/74038190/216656983-6e5e0e88-8f6d-4f25-8b4d-1d4b0f0a13f3.gif" width="45" alt="Animated sparkle" />
 
 I enjoy turning data into useful insights and building practical software
 experiences. My interests sit at the intersection of analytics, visualization,
@@ -76,6 +80,6 @@ review, and a counter dashboard for incoming orders.
 [![GitHub](https://img.shields.io/badge/GitHub-6A11CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balajikodidhala)
 [![Email](https://img.shields.io/badge/balajik12072003%40gmail.com-FF4B91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajik12072003@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2575FC,100:6A11CB&height=110&section=footer" alt="Colorful footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2575FC,100:6A11CB&height=130&section=footer&animation=fadeIn" alt="Animated colorful footer" />
 
 </div>
