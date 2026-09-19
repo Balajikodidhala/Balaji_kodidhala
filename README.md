@@ -20,6 +20,9 @@
 
 📊 Data Analytics · 🧠 Data Science · 💻 Software Development
 
+> Turning data into insights and ideas into useful digital experiences. Building,
+> learning, and growing one project at a time.
+
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20website-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balajikodidhala.github.io/Portfolio/)
