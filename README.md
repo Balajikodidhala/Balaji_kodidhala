@@ -61,27 +61,6 @@ review, and a counter dashboard for incoming orders.
 
 </div>
 
-## GitHub dashboard
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Balajikodidhala&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Balaji's GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balajikodidhala&layout=compact&theme=radical&hide_border=true" alt="Balaji's top languages" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Balajikodidhala&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
-
-</div>
-
-## 3D contribution graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" />
-
-</div>
-
 ## Interests
 
 - Data analytics and data science
