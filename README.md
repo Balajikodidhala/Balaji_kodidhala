@@ -32,11 +32,22 @@
 
 ## About me
 
-<img src="https://user-images.githubusercontent.com/74038190/216656983-6e5e0e88-8f6d-4f25-8b4d-1d4b0f0a13f3.gif" width="45" alt="Animated sparkle" />
+<table>
+<tr>
+<td width="58%" valign="middle">
 
 I enjoy turning data into useful insights and building practical software
 experiences. My interests sit at the intersection of analytics, visualization,
 and clean user-focused development.
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="analyst-illustration.svg" width="420" alt="Colorful data analyst dashboard illustration" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
