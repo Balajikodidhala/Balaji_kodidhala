@@ -14,6 +14,19 @@
 
 </div>
 
+## Balaji Kodidhala
+
+**Balajikodidhala** · B.E. Information Science & Engineering · Aspiring Data Analyst
+
+📊 Data Analytics · 🧠 Data Science · 💻 Software Development
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20website-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balajikodidhala.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-balajik12072003%40gmail.com-FF4B91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajik12072003@gmail.com)
+
+</div>
+
 ## About me
 
 <img src="https://user-images.githubusercontent.com/74038190/216656983-6e5e0e88-8f6d-4f25-8b4d-1d4b0f0a13f3.gif" width="45" alt="Animated sparkle" />
@@ -43,6 +56,17 @@ and clean user-focused development.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+
+</div>
+
+## Achievements
+
+<div align="center">
+
+![Analytics](https://img.shields.io/badge/Analytics-Data%20Insights-00C9A7?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-5%2B-6A11CB?style=for-the-badge)
+![Builder](https://img.shields.io/badge/Builder-Always%20Learning-FF4B91?style=for-the-badge)
+![Open source](https://img.shields.io/badge/GitHub-Active%20Builder-2575FC?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
