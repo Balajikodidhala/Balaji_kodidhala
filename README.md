@@ -4,10 +4,11 @@
 
 ### B.E. Information Science & Engineering · Aspiring Data Analyst
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C9A7&height=180&section=header&text=Build%20.%20Analyze%20.%20Create%20.&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Build, Analyze, Create" />
+<img src="profile-background.svg" alt="Balaji Kodidhala colorful profile background" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20website-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balajikodidhala.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Balajikodidhala-6A11CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balajikodidhala)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-FF4B91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajik12072003@gmail.com)
 
 </div>
 
@@ -94,6 +95,7 @@ review, and a counter dashboard for incoming orders.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balajikodidhala.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-6A11CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balajikodidhala)
+[![Email](https://img.shields.io/badge/balajik12072003%40gmail.com-FF4B91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajik12072003@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2575FC,100:6A11CB&height=110&section=footer" alt="Colorful footer" />
 
