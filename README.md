@@ -46,7 +46,7 @@ and clean user-focused development.
 
 </div>
 
-## Featured project
+## Featured projects
 
 ### ☕ Mysuru Coffee Bar
 
@@ -64,6 +64,33 @@ review, and a counter dashboard for incoming orders.
 [![View cafe project](https://img.shields.io/badge/View%20project-Mysuru%20Coffee%20Bar-8A5A2B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balajikodidhala/Cafe)
 
 </div>
+
+### 📊 ChocoSales Analytics Dashboard
+
+Analytics dashboard project developed with Python, SQL, and Power BI to turn
+sales data into clear business insights.
+
+[View ChocoSales project](https://github.com/Balajikodidhala/chosales-project)
+
+### 🛒 Blinkit Sales Insights
+
+Power BI sales analysis project with interactive dashboards and business
+insights.
+
+[View Blinkit project](https://github.com/Balajikodidhala/blinkit-sales-insights-powerbi)
+
+### 🧠 Parkinson's Detection System
+
+Research and experimental screening system combining computer vision, machine
+learning, and a full-stack web interface.
+
+[View Parkinson's project](https://github.com/Balajikodidhala/Parkinsons-Detection-System)
+
+### 🌐 Personal Portfolio
+
+Personal portfolio website showcasing projects, skills, and developer work.
+
+[View portfolio repository](https://github.com/Balajikodidhala/Portfolio)
 
 ## Interests
 
