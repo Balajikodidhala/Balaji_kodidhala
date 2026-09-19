@@ -92,6 +92,31 @@ Personal portfolio website showcasing projects, skills, and developer work.
 
 [View portfolio repository](https://github.com/Balajikodidhala/Portfolio)
 
+## System initialized...
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=9BEF00&background=07100B&center=true&vCenter=true&width=780&height=55&lines=Hi%2C+I'm+Balaji+Kodidhala;Aspiring+Data+Analyst+%7C+Builder+%7C+Learner" alt="Animated Balaji introduction" />
+
+<br />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Balajikodidhala&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Balaji's GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balajikodidhala&layout=compact&theme=radical&hide_border=true" alt="Balaji's top languages" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Balajikodidhala&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="Balaji's GitHub trophies" />
+
+</div>
+
+## Contribution activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balajikodidhala&bg_color=12002F&color=00C9A7&line=FF4B91&point=F2C811&area=true&hide_border=true" alt="Balaji's GitHub contribution activity" />
+
+</div>
+
 ## Interests
 
 - Data analytics and data science
